@@ -1,0 +1,17 @@
+{
+  "name": "shopee-image-scrapper",
+  "version": "1.0.0",
+  "description": "Product image scaraper on shopee",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "cantdocpp",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "dotenv": "^8.2.0",
+    "excel4node": "^1.7.2",
+    "puppeteer": "^3.3.0"
+  }
+}
